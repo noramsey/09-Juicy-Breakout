@@ -1,0 +1,1 @@
+For this assignment i followed the provided rules and learned quite a bit more about scripting within Godot. Spoiler alert: It's more python, but jargon-y-er.
